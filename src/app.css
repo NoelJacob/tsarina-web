@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+
+
+@import '@fontsource/quicksand';
+@import '@fontsource/inter';
+@import '@fontsource/raleway/900';
+
+@import 'carbon-components-svelte/css/white.css';
+
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+a {
+    color: black;
+}
